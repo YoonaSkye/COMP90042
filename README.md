@@ -1,4 +1,4 @@
-# Question-Answering-Project
+# Question Answering Project
 
 This project aims to build a predominantly **retrieval based QA system** which can find the answer to a question in the corresponding text span given a question and a document. In this project, **information retrieval, information extraction, and machine learning technologies** are implemented to develop and enhance the QA system.
 
@@ -7,3 +7,7 @@ Initially, a basic QA system was built based on sentence retrieval (**Okapi BM25
 For further improvements, building a pattern-based approach for answer extraction may be helpful. Beside, semantic information could also be utilised to improve answer type detection classifier, such as ‘what’ question. Moreover, neural networks can be a much more effective method for QA.
 
 For further details, pls check the document named 'Final Report'.
+
+
+University of Melbourne
+Semester1 2018
